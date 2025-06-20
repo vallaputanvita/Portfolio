@@ -1,0 +1,68 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  line-height: 1.6;
+  background-color: #f8f9fa;
+  color: #333;
+}
+
+section {
+  padding: 40px 20px;
+  border-bottom: 1px solid #ccc;
+}
+
+h1, h2 {
+  color: #2c3e50;
+}
+
+.tagline {
+  font-style: italic;
+  color: #555;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+.project-card {
+  background: #ffffff;
+  padding: 20px;
+  margin: 15px 0;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+}
+
+input, textarea {
+  display: block;
+  width: 90%;
+  margin: 10px 0;
+  padding: 10px;
+  font-size: 1rem;
+}
+
+button {
+  padding: 10px 20px;
+  background-color: #3498db;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #2980b9;
+}
+
+a {
+  color: #0077cc;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+progress {
+  width: 100px;
+  height: 10px;
+}
